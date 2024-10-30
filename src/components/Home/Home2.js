@@ -4,8 +4,7 @@ import myImg from "../../Assets/emma.png"; // Replace with your image
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
+ 
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
